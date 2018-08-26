@@ -17,11 +17,13 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues) 
 
-**说明：**标志:us:为英文,:cn:为中文, :arrow_down:为可以下载的附件,
+**说明：**标志:us:为英文,:cn:为中文, :arrow_down:为可以下载的附件。
+
+另，个人闲置二手书交易，可见<https://github.com/waylau/second-hand-books>。
 
 ## 翻墙
 
-* [简单实现浏览国外著名网站的方法，不用梯子，修改本机的 hosts](https:/waylau.com/simple-way-to-implement-browsing-famous-overseas-web-sites-without-the-ladder-gateway-dns-hosts/)
+* [简单实现浏览国外著名网站的方法,不用梯子,修改本机的hosts](https://waylau.com/simple-way-to-implement-browsing-famous-overseas-web-sites-without-the-ladder-gateway-dns-hosts/)
 * [用Heroku、snova-c4搭梯子上墙](https://waylau.com/heroku-snova-c4-cross-wall/)
 * [又一架梯子上墙利器--DNSCrypt](https://waylau.com/about-dnscrypt/)
 * [用 VPN Gate 翻墙科学上网](https://waylau.com/about-vpngate/)
@@ -62,10 +64,26 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [分布式 Java](https://github.com/waylau/distributed-java)
 * [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 * [Thymeleaf 教程](https://github.com/waylau/thymeleaf-tutorial)
+* [Spring Cloud 教程](https://github.com/waylau/spring-cloud-tutorial)
+* [Spring 5 案例大全](https://github.com/waylau/spring-5-book)
+* [Think Java, 2nd Edition](https://books.trinket.io/thinkjava2)
+* [Think Data Structures](http://greenteapress.com/thinkdast/html/index.html)
 
 ## Golang
 
 * Build Web Application With Golang [:us:](https://github.com/astaxie/build-web-application-with-golang), [:cn:](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh)
+
+## Web
+
+* [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
+* [Scalable Vector Graphics (SVG) 2](http://www.w3.org/TR/2015/WD-SVG2-20150409/)
+* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+* http2 explained [:us:](http://daniel.haxx.se/http2/), [:cn:](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+* [TCP/IP详解 卷1：协议](http://www.52im.net/topic-tcpipvol1.html)
+* [NGINX 教程](https://github.com/waylau/nginx-tutorial)
+* JSON-RPC 2.0 规范 [:us:](http://www.jsonrpc.org/specification), [:cn:](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)
+* [跟老卫学Angular](https://github.com/waylau/angular-tutorial)
 
 ## Javascript
 
@@ -111,7 +129,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 ## 工作流
 
-* [Activiti 5.x 用户指南](github.com/waylau/activiti-5.x-user-guide)
+* [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 
 ## Linux
 
@@ -119,16 +137,6 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Linux入门指引](https://upclinux.github.io/intro/)
 * openSUSE Leap 42.1 非官方指南 [:us:](http://opensuse-guide.org/), [:cn:](https://lug.ustc.edu.cn/sites/opensuse-guide/)
 * [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)[:us:]
-
-## Web
-
-* [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
-* [Scalable Vector Graphics (SVG) 2](http://www.w3.org/TR/2015/WD-SVG2-20150409/)
-* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
-* http2 explained [:us:](http://daniel.haxx.se/http2/), [:cn:](https://www.gitbook.com/book/ye11ow/http2-explained/details)
-* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
-* [TCP/IP详解 卷1：协议](http://www.52im.net/topic-tcpipvol1.html)
-* [NGINX 教程](https://github.com/waylau/nginx-tutorial)
 
 ## Mobile Development
 
@@ -150,8 +158,13 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 * [Docker 入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [Docker 中文指南](https://github.com/widuu/chinese_docker)
+* [Cloud Native 案例大全](https://github.com/waylau/cloud-native-book-demos)
 
 ## 大数据
 
 * Elasticsearch 权威指南 [:us:](https://github.com/elasticsearch/elasticsearch-definitive-guide), [:cn:](https://github.com/looly/elasticsearch-definitive-guide-cn)
 * Spring Data Elasticsearch [:us:](http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html), [:cn:](https://es.yemengying.com/)
+
+## 操作系统
+
+* [Operate Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
